@@ -1,3 +1,19 @@
 #Project Description
-# link: https://scontent-cai1-1.xx.fbcdn.net/v/t34.0-12/17360892_1247993691922061_1152582209_n.png?oh=3d9c5c24f85386de9d6bb5a7633530b1&oe=58CCB5AE
+###Example : http://nevonprojects.com/the-online-auction-system/
 
+__**Online Auction System**__
+The **online auction system** may work as follows: Each participant should
+register with the system so he can subscribe to any auction session.
+During any auction session an item is open for bids placed by the session participants,
+for simplicity assume only one auctioned item per session.
+The system notifies the bidders with the starting of the auction session;
+bidders can obtain the latest status and submit their bids. At the end of
+the session the system notifies the winner and announces the result to
+the other participant bidders.
+
+All in all, the system may include the following functionality:
+
+    1- Membership manamgement.
+    2- Bid management.
+    3- Inventory management.
+    4- Billing and invoices.
