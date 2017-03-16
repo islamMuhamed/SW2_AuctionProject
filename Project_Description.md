@@ -15,7 +15,7 @@ the other participant bidders.
 
 All in all, the system may include the following functionality:
 
-   1- Membership manamgement.
-   2- Bid management.
-   3- Inventory management.
-   4- Billing and invoices.
+    1- Membership manamgement.
+    2- Bid management.
+    3- Inventory management.
+    4- Billing and invoices.
